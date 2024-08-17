@@ -2,7 +2,7 @@
 title: Scatterbrain
 ---
 We are a team dedicated to writing and reviewing literature as well as our own experiences and life. Our blog is a place to share opinions and to write about matters openly and honestly. 
-## ['Literary Guide'](/literary-guides/)
+## <a href = "literaryGuides.md">Literary Guides</a>
 Book recommendations, reviews and critiques on classics, award-winners and popular reads. Literary analyses will be available too for more of a…philosophical…outlook.
 ## Experiences
 The hustle and bustle of everyday life. The thrills of travel. Or maybe even the joys of a quiet moment alone. Here will be the ups and downs of adolescent life and the many thoughts shared along the way.
