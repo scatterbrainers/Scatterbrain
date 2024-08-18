@@ -1,6 +1,5 @@
 ---
 title: Van Life pt 2
-imageFile = "images\Van Life pt 2"
 ---
 ## Van Life pt 2
 By Delight ☆ ～('▽^人)
