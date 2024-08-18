@@ -2,6 +2,7 @@
 title: Scatterbrain
 ---
 <title>Scatterbrain</title>
+
 We are a team dedicated to writing and reviewing literature as well as our own experiences and life. Our blog is a place to share opinions and to write about matters openly and honestly. 
 ## <a href = "literaryGuides.md">Literary Guides</a>
 Book recommendations, reviews and critiques on classics, award-winners and popular reads. Literary analyses will be available too for more of a…philosophical…outlook.
