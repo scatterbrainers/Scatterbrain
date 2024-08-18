@@ -1,1 +1,12 @@
 theme: minima 
+navbar:
+  title: Scatterbrain
+  right:
+    - text: "Literary Guides"
+      href = "literaryGuides.md"
+    - text: "Experiences"
+      href = "experiences.md"
+    - text: "Our Collection"
+      href = "ourCollection.md"
+    - text: "Français"
+      href = "français.md"
