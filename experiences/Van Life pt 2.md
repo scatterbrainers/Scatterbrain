@@ -25,7 +25,7 @@ Buy groceries/food before 5 pm! Everything closes early in Victoria. It's not li
 Another funny thing was the street music battles LOL like there would be a musician every 100 m down the street and all of their sounds would overlap. The bagpipe players play from 11am to 6 pm ish non-stop and there are guitar singers everywhere and a Darth Vader who plays violin in front of the gift shops - just to name a few. One time, the bag pipes had a match off with an Erhu across the street, aka they were trying to play over each other.
 
 Also there are just peacocks and deers that roam around the park fyi. 
-<table>
+<table border = 0>
     <tr>
         <td><img src = "images\Van Life pt 2\peacock.webp" alt = "Picture of a peacock."/></td>
         <td><img src = "images\Van Life pt 2\deer.webp" alt = "Picture of two deer."/></td>
