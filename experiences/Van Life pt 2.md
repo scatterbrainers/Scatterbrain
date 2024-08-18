@@ -11,6 +11,7 @@ Victoria
 It was my first time on the BC Ferry from Tsawwassen to Victoria and I'd expected to get seasick as I usually do, but I'm happy to report that there was minimal turbulence :) We were also super lucky to sit by the windows and observe an orca whale come up for water; it was so cute and the kiddies were so excited!
 
 Victoria is so cute! It also has a bunch of niche touristy things like giant animal statues for people to take pictures with. Here's one from outside of our hotel:
+
 <img src = "images\Van Life pt 2\Bear statue.webp" alt = "Picture of a bear statue"/>
 
 The next thing I noticed is the carriage culture! Especially near the dock, horse-drawn carriages are always available for a sightseeing ride. They literally gallop on the streets with cars and stuff. Not just horses make up the tethered pullers of trolley carts, but also bikes and humans! It was 8 pm when my sister and I went scavenging for food and lo and behold there was a line of trolleys down the street of men pulling trolley carts full of humans. I was quite surprised at their speed but also like is it safe for them to run on the street?
@@ -88,14 +89,14 @@ Wise words overheard at Oyster River Potholes 07/27/24:
 
 <table>
     <tr>
-        <td><img src = "images\Van Life pt 2\oysterPothole1.webp" alt = "Picture of an oyster pothole."/></td>
-        <td><img src = "images\Van Life pt 2\oysterPothole2.webp" alt = "Picture of an oyster pothole."/></td>
-        <td><img src = "images\Van Life pt 2\oysterPothole3.webp" alt = "Picture of an oyster pothole."/></td>
+        <td><img src = "images\Van Life pt 2\oysterPotholes1.webp" alt = "Picture of an oyster pothole."/></td>
+        <td><img src = "images\Van Life pt 2\oysterPotholes2.webp" alt = "Picture of an oyster pothole."/></td>
+        <td><img src = "images\Van Life pt 2\oysterPotholes3.webp" alt = "Picture of an oyster pothole."/></td>
     </tr>
     <tr>
-        <td><img src = "images\Van Life pt 2\oysterPothole4.webp" alt = "Picture of an oyster pothole."/></td>
-        <td><img src = "images\Van Life pt 2\oysterPothole5.webp" alt = "Picture of an oyster pothole."/></td>
-        <td><img src = "images\Van Life pt 2\oysterPothole6.webp" alt = "Picture of an oyster pothole."/></td>
+        <td><img src = "images\Van Life pt 2\oysterPotholes4.webp" alt = "Picture of an oyster pothole."/></td>
+        <td><img src = "images\Van Life pt 2\oysterPotholes5.webp" alt = "Picture of an oyster pothole."/></td>
+        <td><img src = "images\Van Life pt 2\oysterPotholes6.webp" alt = "Picture of an oyster pothole."/></td>
     </tr>
 </table>
 
