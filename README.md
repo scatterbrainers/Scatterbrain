@@ -11,3 +11,5 @@ Click on the link to access the website, and then explore! There are currently f
 References/Resources used:
 
 https://stackoverflow.com/questions/64934052/rmarkdown-bootstrap-navbar
+
+https://medium.com/swlh/javascript-how-to-create-a-like-button-3716c33b1879
